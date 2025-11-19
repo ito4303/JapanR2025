@@ -1,0 +1,92 @@
+---
+title: "Kanazawa.R 紹介"
+subtitle: "Japan.R 2025"
+author: "伊東宏樹"
+date: 2025-12-06
+format:
+  revealjs:
+    theme: [default, custom.scss]
+    slide-number: true
+embed-resources: true
+editor: visual
+---
+
+## 誰?
+
+-   氏名: 伊東宏樹 (connpass ID: monotropastrum)
+
+-   個人事業主（[伊東生態統計研究室](https://ito4303.sakura.ne.jp/)）
+
+    -   データ解析、執筆・翻訳、研修講師などお引き受けいたします。
+
+-   出版物: 『[BUGSで学ぶ階層モデリング入門](https://www.kyoritsu-pub.co.jp/book/b10003729.html)』『[生態学のための階層モデリング](https://www.kyoritsu-pub.co.jp/book/b10003301.html)』（以上共訳）など
+
+## Kanazawa.Rの紹介
+
+![](images/KanazawaR.jpg){fig-alt="[Kanazawa.R]" fig-align="center"}
+
+## これまでの開催実績
+
+-   第1回: 2024年6月29日
+-   第2回: 2024年11月23日
+-   第3回: 2025年5月10日
+-   第4回: 2025年11月15日
+
+## これまでの内容
+
+-   初心者向けチュートリアル
+
+-   一般発表
+
+-   ライトニングトーク
+
+-   懇親会
+
+-   第3回と第4回はテーマを設定
+
+    -   第3回: 観光
+    -   第4回: 防災
+
+## 開催場所
+
+-   現地開催とオンライン(Zoom)の併用
+    -   現地会場: [株式会社アイ・ツー](https://www.i2-jp.com/)
+
+```{r}
+#| label: map
+#| echo: false
+
+library(leaflet)
+loc <- c(136.64560833034852, 36.57830260606003)
+leaflet() |>
+  addTiles() |>
+  setView(lng = loc[1], lat = loc[2], zoom = 18) |>
+  addMarkers(lng = loc[1], lat = loc[2],
+             popup = "株式会社アイ・ツー")
+```
+
+## Kanazawa.Rへどうぞ
+
+![](images/IMG_2775.jpeg){fig-alt="[雪吊り]" fig-align="center"}
+
+## 観光
+
+-   兼六園, 金沢城公園, 21世紀美術館, 茶屋街, ...
+
+![](images/IMG_7506.jpeg){fig-alt="[兼六園]" fig-align="center"}
+
+## 食
+
+-   カニ, 甘エビ, ブリ, ノドグロ, 金沢おでん, ...
+
+![](images/IMG_5746.jpeg){fig-alt="[海鮮]" fig-align="center" width="640"}
+
+## 次回は2026年5月中旬の予定です。是非！ {style="text-align: center; margin-top: 3em;"}
+
+::: {style="text-align:center; margin-top: 2em;"}
+connpass の [Kanazawa.R](https://kanazawar.connpass.com/) グループへ登録を
+:::
+
+::: {style="text-align: center; margin-top: 0.5em; font-size: 400%;"}
+🥳
+:::
