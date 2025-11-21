@@ -25,27 +25,14 @@ editor: visual
 
 ![](images/KanazawaR.jpg){fig-alt="[Kanazawa.R]" fig-align="center"}
 
+石川県金沢市で開催している地域R勉強会
+
 ## これまでの開催実績
 
 -   第1回: 2024年6月29日
 -   第2回: 2024年11月23日
 -   第3回: 2025年5月10日
 -   第4回: 2025年11月15日
-
-## これまでの内容
-
--   初心者向けチュートリアル
-
--   一般発表
-
--   ライトニングトーク
-
--   懇親会
-
--   第3回と第4回はテーマを設定
-
-    -   第3回: 観光
-    -   第4回: 防災
 
 ## 開催場所
 
@@ -65,23 +52,31 @@ leaflet() |>
              popup = "株式会社アイ・ツー")
 ```
 
-## Kanazawa.Rへどうぞ
+## 内容
 
-![](images/IMG_2775.jpeg){fig-alt="[雪吊り]" fig-align="center"}
+-   初心者向けチュートリアル、一般発表、ライトニングトーク、懇親会
 
-## 観光
+-   第3回と第4回はテーマを設定
 
--   兼六園, 金沢城公園, 21世紀美術館, 茶屋街, ...
+    -   第3回: 観光
 
-![](images/IMG_7506.jpeg){fig-alt="[兼六園]" fig-align="center"}
+    -   第4回: 防災
 
-## 食
+## Kanazawa.Rへ いらっしゃいませ
 
--   カニ, 甘エビ, ブリ, ノドグロ, 金沢おでん, ...
+::::: columns
+::: {.column width="50%"}
+![](images/IMG_7506.jpeg){fig-alt="[兼六園の写真]" fig-align="center"} ![](images/IMG_2773.jpeg){fig-alt="[石川門の写真]" fig-align="center"}
+:::
 
-![](images/IMG_5746.jpeg){fig-alt="[海鮮]" fig-align="center" width="640"}
+::: {.column width="50%"}
+![](images/IMG_9637.jpeg){fig-alt="[浅野川の写真]" fig-align="center"} ![](images/IMG_2157.jpeg){fig-alt="[蟹の写真]" fig-align="center"}
+:::
+:::::
 
-## 次回は2026年5月中旬の予定です。是非！ {style="text-align: center; margin-top: 3em;"}
+## 次回開催
+
+2026年5月中旬の予定
 
 ::: {style="text-align:center; margin-top: 2em;"}
 connpass の [Kanazawa.R](https://kanazawar.connpass.com/) グループへ登録を
