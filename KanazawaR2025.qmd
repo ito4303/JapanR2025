@@ -14,12 +14,10 @@ editor: visual
 ## 誰?
 
 -   氏名: 伊東宏樹 (connpass ID: monotropastrum)
-
 -   個人事業主（[伊東生態統計研究室](https://ito4303.sakura.ne.jp/)）
-
-    -   データ解析、執筆・翻訳、研修講師などお引き受けいたします。
-
+    -   データ解析、執筆・翻訳、研修講師などお引き受けいたします
 -   出版物: 『[BUGSで学ぶ階層モデリング入門](https://www.kyoritsu-pub.co.jp/book/b10003729.html)』『[生態学のための階層モデリング](https://www.kyoritsu-pub.co.jp/book/b10003301.html)』（以上共訳）など
+-   近況: [iNaturalist](https://www.inaturalist.org/)に自然観察記録を登録してます
 
 ## Kanazawa.Rの紹介
 
@@ -30,8 +28,11 @@ editor: visual
 ## これまでの開催実績
 
 -   第1回: 2024年6月29日
+
 -   第2回: 2024年11月23日
+
 -   第3回: 2025年5月10日
+
 -   第4回: 2025年11月15日
 
 ## 開催場所
