@@ -61,27 +61,37 @@ leaflet() |>
 
 ::: {style="font-size: 90%;"}
 | 発表者 | タイトル |
-|-------------------|-----------------------------------------------------|
-| 伊東宏樹 | Rをつかってみよう |
-| NONONOexe | 宿さがしのデータ分析 |
+|-----------------------|-------------------------------------------------|
+| 伊東宏樹 | [Rをつかってみよう](https://ito4303.github.io/KanazawaR003/Tutorial.html) |
+| NONONOexe | [宿さがしのデータ分析](https://www.docswell.com/s/NONONOexe/Z823Q1-kanazawar-3-setariaviridis) |
 | kotatyamtema | 公共データを調べてみよう〜観光庁編〜 |
-| 伊東宏樹 | 観光来訪者数の時系列分析 |
-| eijinakama | Rの乱数について |
-| 藤原義久\@yoshi | 国籍別・都道府県別宿泊者数の潜在パターン：行列分解してみよう |
-| 伊東宏樹 | 観光来訪者数をShinyで可視化 |
+| 伊東宏樹 | [観光来訪者数の時系列分析](https://ito4303.github.io/KanazawaR003/Kanko_ssm.html) |
+| eijinakama | [Rの乱数について](https://www.nakama.ne.jp/kanazawaR/Rrand202505/Rrand202505.pdf) |
+| 藤原義久\@yoshi | [国籍別・都道府県別宿泊者数の潜在パターン：行列分解してみよ](https://www.docswell.com/s/yfujiwar/ZL1P64-2025-05-12-094836)う |
+| 伊東宏樹 | [観光来訪者数をShinyで可視化](https://ito4303.github.io/KanazawaR003/Shiny_app.html) |
 :::
 
 ## Kanazawa.R #4の発表
 
 ::: {style="font-size: 90%;"}
 | 発表者 | タイトル |
-|------------------------|------------------------------------------------|
-| mntf | はじめてのR言語 with Gemini CLI —インストールから始める、AIアシスタントと歩むデータ分析の第一歩— |
-| 伊東宏樹 | 避難場所の位置をRで確認してみよう |
-| 伊東宏樹 | 避難場所への経路をRで探索してみよう |
-| eijinakama | はじめてのLCONS |
-| 伊東宏樹 | ggplot2で生存時間分析のグラフ作成 |
-| 伊東宏樹 | RからローカルLLMをつかう |
+|-------------------------|-----------------------------------------------|
+| mntf | [はじめてのR言語 with Gemini CLI —インストールから始める、AIアシスタントと歩むデータ分析の第一歩—](https://www.trifields.jp/document/r-beginner-with-gemini-cli.html) |
+| 伊東宏樹 | [避難場所の位置をRで確認してみよう](https://ito4303.github.io/KanazawaR004/Hinanbasyo.html) |
+| 伊東宏樹 | [避難場所への経路をRで探索してみよう](https://ito4303.github.io/KanazawaR004/Hinanbasyo_route.html) |
+| eijinakama | [はじめてのLCONS](https://www.nakama.ne.jp/kanazawaR/LCONS202511/Rlcons202511.pdf) |
+| 伊東宏樹 | [ggplot2で生存時間分析のグラフ作成](https://ito4303.github.io/KanazawaR004/survival-ggplot2.html) |
+| 伊東宏樹 | [RからローカルLLMをつかう](https://ito4303.github.io/KanazawaR004/local_LLM.html) |
+:::
+
+## 次回開催
+
+::: {style="margin-top: 1em;"}
+2026年5月中旬の予定
+:::
+
+::: {style="text-align:center; margin-top: 2em;"}
+connpass の [Kanazawa.R](https://kanazawar.connpass.com/) グループへ登録を
 :::
 
 ## Kanazawa.Rへ いらっしゃいませ
@@ -95,15 +105,3 @@ leaflet() |>
 ![](images/IMG_9637.jpeg){fig-alt="[浅野川の写真]" fig-align="center"} ![](images/IMG_2157.jpeg){fig-alt="[蟹の写真]" fig-align="center"}
 :::
 :::::
-
-## 次回開催
-
-2026年5月中旬の予定
-
-::: {style="text-align:center; margin-top: 2em;"}
-connpass の [Kanazawa.R](https://kanazawar.connpass.com/) グループへ登録を
-:::
-
-::: {style="text-align: center; margin-top: 0.5em; font-size: 400%;"}
-🥳
-:::
