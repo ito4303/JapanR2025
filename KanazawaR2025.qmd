@@ -61,7 +61,7 @@ leaflet() |>
 
 ::: {style="font-size: 90%;"}
 | 発表者 | タイトル |
-|-----------------------|-------------------------------------------------|
+|------------------------|------------------------------------------------|
 | 伊東宏樹 | [Rをつかってみよう](https://ito4303.github.io/KanazawaR003/Tutorial.html) |
 | NONONOexe | [宿さがしのデータ分析](https://www.docswell.com/s/NONONOexe/Z823Q1-kanazawar-3-setariaviridis) |
 | kotatyamtema | 公共データを調べてみよう〜観光庁編〜 |
@@ -84,16 +84,6 @@ leaflet() |>
 | 伊東宏樹 | [RからローカルLLMをつかう](https://ito4303.github.io/KanazawaR004/local_LLM.html) |
 :::
 
-## 次回開催
-
-::: {style="margin-top: 1em;"}
-2026年5月中旬の予定
-:::
-
-::: {style="text-align:center; margin-top: 2em;"}
-connpass の [Kanazawa.R](https://kanazawar.connpass.com/) グループへ登録を
-:::
-
 ## Kanazawa.Rへ いらっしゃいませ
 
 ::::: columns
@@ -105,3 +95,14 @@ connpass の [Kanazawa.R](https://kanazawar.connpass.com/) グループへ登録
 ![](images/IMG_9637.jpeg){fig-alt="[浅野川の写真]" fig-align="center"} ![](images/IMG_2157.jpeg){fig-alt="[蟹の写真]" fig-align="center"}
 :::
 :::::
+
+## 次回開催
+
+::: {style="margin-top: 1.5em; font-size: 120%;"}
+2026年5月中旬の予定
+:::
+
+::: {style="margin-top: 1em; margin-left: 1em; text-indent: -1em; font-size: 125%;"}
+興味がありましたら、<br /> connpass の [**Kanazawa.R**](https://kanazawar.connpass.com/) グループへ<br />登録を
+:::
+
