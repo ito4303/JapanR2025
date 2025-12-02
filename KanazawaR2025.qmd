@@ -84,7 +84,7 @@ leaflet() |>
 | 伊東宏樹 | [RからローカルLLMをつかう](https://ito4303.github.io/KanazawaR004/local_LLM.html) |
 :::
 
-## Kanazawa.Rへ いらっしゃいませ
+## みなさん Kanazawa.R に来てね
 
 ::::: columns
 ::: {.column width="50%"}
